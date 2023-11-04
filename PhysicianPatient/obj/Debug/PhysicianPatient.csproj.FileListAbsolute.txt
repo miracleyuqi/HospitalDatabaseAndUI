@@ -1,0 +1,22 @@
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\bin\Debug\PhysicianPatient.exe.config
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\bin\Debug\PhysicianPatient.exe
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\bin\Debug\PhysicianPatient.pdb
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.AssemblyReference.cache
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.Properties.Resources.resources
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.GenerateResource.cache
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.CoreCompileInputs.cache
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.exe
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.pdb
+C:\Users\Bei\Desktop\DBAS\PhysicianPatient\obj\Debug\PhysicianPatient.frmMain.resources
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\bin\Debug\PhysicianPatient.exe.config
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\bin\Debug\PhysicianPatient.exe
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\bin\Debug\PhysicianPatient.pdb
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.AssemblyReference.cache
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.SuggestedBindingRedirects.cache
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.frmMain.resources
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.Properties.Resources.resources
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.GenerateResource.cache
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.csproj.CoreCompileInputs.cache
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.exe
+C:\Bear Documents\Canada\Canada Study\Durham College\Semester 4\DBAS5206\Major Project\FINAL Project Submission\PhysicianPatient\obj\Debug\PhysicianPatient.pdb

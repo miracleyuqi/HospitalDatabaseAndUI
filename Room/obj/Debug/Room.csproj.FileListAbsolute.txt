@@ -1,0 +1,11 @@
+C:\Users\Bei\Desktop\DBAS\Room\bin\Debug\Room.exe.config
+C:\Users\Bei\Desktop\DBAS\Room\bin\Debug\Room.exe
+C:\Users\Bei\Desktop\DBAS\Room\bin\Debug\Room.pdb
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.csproj.AssemblyReference.cache
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.Properties.Resources.resources
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.csproj.GenerateResource.cache
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.csproj.CoreCompileInputs.cache
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.exe
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.pdb
+C:\Users\Bei\Desktop\DBAS\Room\obj\Debug\Room.fomMain.resources
